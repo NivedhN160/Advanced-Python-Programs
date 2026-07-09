@@ -1,0 +1,764 @@
+{
+  "unknown_file.py": [
+    {
+      "timestamp": 1782805228.713462,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 104.20676611776037,
+      "face_size_norm": 0.106803385416319
+    },
+    {
+      "timestamp": 1782805233.7845953,
+      "emotion": "happy",
+      "frustration": 0.07688524574041367,
+      "blink_rate": 0.0,
+      "head_tilt": 105.44631636769256,
+      "face_size_norm": 0.1068749999996521
+    },
+    {
+      "timestamp": 1782805238.793582,
+      "emotion": "happy",
+      "frustration": 0.04133640229701996,
+      "blink_rate": 0.0,
+      "head_tilt": 104.93141717813755,
+      "face_size_norm": 0.10624999999965413
+    },
+    {
+      "timestamp": 1782805243.8156235,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 88.65211271980141,
+      "face_size_norm": 0.12187499999960327
+    },
+    {
+      "timestamp": 1782805248.904709,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 89.46454101443547,
+      "face_size_norm": 0.24103190104088204
+    },
+    {
+      "face_id": 0,
+      "timestamp": 1782805405.1171641,
+      "emotion": "happy",
+      "frustration": 0.09801562875509262,
+      "blink_rate": 0.0,
+      "head_tilt": 95.26239539959512,
+      "face_size_norm": 0.09154947916636866
+    },
+    {
+      "face_id": 0,
+      "timestamp": 1782805410.161812,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 85.9958270592906,
+      "face_size_norm": 0.14824218749951742
+    },
+    {
+      "face_id": 4,
+      "timestamp": 1782805413.2697153,
+      "emotion": "surprise",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 106.69924423399362,
+      "face_size_norm": 0.029218749999904887
+    },
+    {
+      "face_id": 0,
+      "timestamp": 1782805415.2911663,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 84.18437347050876,
+      "face_size_norm": 0.13574544270789146
+    },
+    {
+      "face_id": 6,
+      "timestamp": 1782805421.9376817,
+      "emotion": "happy",
+      "frustration": 0.01918633282184601,
+      "blink_rate": 0.0,
+      "head_tilt": 81.70285503016314,
+      "face_size_norm": 0.10429036458299384
+    },
+    {
+      "face_id": 15,
+      "timestamp": 1782805430.3192904,
+      "emotion": "sad",
+      "frustration": 0.597392737865448,
+      "blink_rate": 0.0,
+      "head_tilt": 83.21102542556122,
+      "face_size_norm": 0.06441406249979031
+    },
+    {
+      "face_id": 16,
+      "timestamp": 1782805430.5007055,
+      "emotion": "happy",
+      "frustration": 0.03499096632003784,
+      "blink_rate": 0.0,
+      "head_tilt": 94.3432399516894,
+      "face_size_norm": 0.0884635416663787
+    },
+    {
+      "face_id": 60,
+      "timestamp": 1782805479.5027986,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 95.79279649503216,
+      "face_size_norm": 0.05824218749981041
+    },
+    {
+      "face_id": 64,
+      "timestamp": 1782805487.1394007,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 87.64670313389169,
+      "face_size_norm": 0.06881510416644265
+    },
+    {
+      "face_id": 64,
+      "timestamp": 1782805492.1836293,
+      "emotion": "angry",
+      "frustration": 0.43267562985420227,
+      "blink_rate": 0.0,
+      "head_tilt": 93.4893249057964,
+      "face_size_norm": 0.07297851562476244
+    },
+    {
+      "face_id": 64,
+      "timestamp": 1782805497.196229,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 94.61064931866062,
+      "face_size_norm": 0.06015624999980418
+    },
+    {
+      "face_id": 64,
+      "timestamp": 1782805502.218766,
+      "emotion": "fear",
+      "frustration": 0.5748300552368164,
+      "blink_rate": 0.0,
+      "head_tilt": 100.15426658020027,
+      "face_size_norm": 0.05932617187480688
+    },
+    {
+      "face_id": 70,
+      "timestamp": 1782805513.803221,
+      "emotion": "angry",
+      "frustration": 0.3712882101535797,
+      "blink_rate": 0.0,
+      "head_tilt": 93.27048792318357,
+      "face_size_norm": 0.06542968749978702
+    },
+    {
+      "face_id": 99,
+      "timestamp": 1782805541.6983387,
+      "emotion": "happy",
+      "frustration": 0.0003559291362762451,
+      "blink_rate": 0.0,
+      "head_tilt": 85.23635830927383,
+      "face_size_norm": 0.08552734374972158
+    },
+    {
+      "face_id": 99,
+      "timestamp": 1782805546.7211785,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 97.76516601842535,
+      "face_size_norm": 0.10742187499965032
+    },
+    {
+      "face_id": 99,
+      "timestamp": 1782805551.8420074,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 97.59464336859145,
+      "face_size_norm": 0.10134440104133677
+    },
+    {
+      "face_id": 115,
+      "timestamp": 1782805556.0085764,
+      "emotion": "disgust",
+      "frustration": 0.6380036473274231,
+      "blink_rate": 0.0,
+      "head_tilt": 131.26860300083956,
+      "face_size_norm": 0.22249999999927572
+    },
+    {
+      "face_id": 99,
+      "timestamp": 1782805556.9329042,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 100.57352341856092,
+      "face_size_norm": 0.10196614583300141
+    },
+    {
+      "face_id": 99,
+      "timestamp": 1782805562.0725117,
+      "emotion": "happy",
+      "frustration": 3.668665885925293e-05,
+      "blink_rate": 0.0,
+      "head_tilt": 115.40771810894849,
+      "face_size_norm": 0.11286458333296594
+    },
+    {
+      "face_id": 126,
+      "timestamp": 1782805580.30552,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 87.58049078334366,
+      "face_size_norm": 0.12545572916625827
+    },
+    {
+      "face_id": 126,
+      "timestamp": 1782805585.4889634,
+      "emotion": "happy",
+      "frustration": 0.0003658682107925415,
+      "blink_rate": 0.0,
+      "head_tilt": 59.62087398863166,
+      "face_size_norm": 0.020312499999933877
+    },
+    {
+      "face_id": 129,
+      "timestamp": 1782805592.2988522,
+      "emotion": "sad",
+      "frustration": 0.5109738707542419,
+      "blink_rate": 0.0,
+      "head_tilt": 107.02052561151986,
+      "face_size_norm": 0.1168554687496196
+    },
+    {
+      "face_id": 129,
+      "timestamp": 1782805597.34625,
+      "emotion": "sad",
+      "frustration": 0.5652887225151062,
+      "blink_rate": 0.0,
+      "head_tilt": 83.79655209830817,
+      "face_size_norm": 0.11140950520797067
+    },
+    {
+      "face_id": 129,
+      "timestamp": 1782805602.3943043,
+      "emotion": "sad",
+      "frustration": 0.5422412753105164,
+      "blink_rate": 0.0,
+      "head_tilt": 99.86580694308438,
+      "face_size_norm": 0.10721354166631766
+    },
+    {
+      "face_id": 131,
+      "timestamp": 1782805614.4052212,
+      "emotion": "angry",
+      "frustration": 0.5318483710289001,
+      "blink_rate": 0.0,
+      "head_tilt": 102.90740867126584,
+      "face_size_norm": 0.10487630208299194
+    },
+    {
+      "face_id": 131,
+      "timestamp": 1782805619.4152071,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 63.43494882292201,
+      "face_size_norm": 0.09808593749968071
+    },
+    {
+      "face_id": 131,
+      "timestamp": 1782805624.4665549,
+      "emotion": "happy",
+      "frustration": 0.2601156234741211,
+      "blink_rate": 0.0,
+      "head_tilt": 61.48875370589126,
+      "face_size_norm": 0.12688476562458695
+    },
+    {
+      "face_id": 131,
+      "timestamp": 1782805629.481541,
+      "emotion": "happy",
+      "frustration": 0.2756348252296448,
+      "blink_rate": 0.0,
+      "head_tilt": 88.80651057601797,
+      "face_size_norm": 0.12785481770791712
+    },
+    {
+      "face_id": 2,
+      "timestamp": 1782806193.3563743,
+      "emotion": "fear",
+      "frustration": 0.7700207233428955,
+      "blink_rate": 0.0,
+      "head_tilt": 98.48894388050472,
+      "face_size_norm": 0.26837890624912636
+    },
+    {
+      "face_id": 2,
+      "timestamp": 1782806198.3637886,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 94.76364169072617,
+      "face_size_norm": 0.2744856770824398
+    },
+    {
+      "face_id": 2,
+      "timestamp": 1782806203.4944286,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 97.64040676102677,
+      "face_size_norm": 0.25512369791583617
+    },
+    {
+      "face_id": 2,
+      "timestamp": 1782806208.5612574,
+      "emotion": "sad",
+      "frustration": 0.5875022411346436,
+      "blink_rate": 0.0,
+      "head_tilt": 100.23480276342322,
+      "face_size_norm": 0.19889322916601923
+    },
+    {
+      "face_id": 3,
+      "timestamp": 1782806210.8937452,
+      "emotion": "angry",
+      "frustration": 0.7547237873077393,
+      "blink_rate": 0.0,
+      "head_tilt": 127.30394827798344,
+      "face_size_norm": 0.16479166666613024
+    },
+    {
+      "face_id": 2,
+      "timestamp": 1782806213.5729828,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 104.03624346792648,
+      "face_size_norm": 0.18145833333274264
+    },
+    {
+      "face_id": 3,
+      "timestamp": 1782806215.9261532,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 119.51149855709032,
+      "face_size_norm": 0.2953124999990387
+    },
+    {
+      "face_id": 2,
+      "timestamp": 1782806218.695228,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 95.31454566994475,
+      "face_size_norm": 0.19856770833268694
+    },
+    {
+      "face_id": 3,
+      "timestamp": 1782806220.9382055,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 120.79323388223963,
+      "face_size_norm": 0.29649414062403484
+    },
+    {
+      "face_id": 2,
+      "timestamp": 1782806223.775272,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 101.853004167744,
+      "face_size_norm": 0.16679687499945703
+    },
+    {
+      "face_id": 3,
+      "timestamp": 1782806225.949608,
+      "emotion": "sad",
+      "frustration": 0.7884219288825989,
+      "blink_rate": 0.0,
+      "head_tilt": 108.93900426024007,
+      "face_size_norm": 0.1872656249993904
+    },
+    {
+      "face_id": 2,
+      "timestamp": 1782806228.79031,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 108.90457584261166,
+      "face_size_norm": 0.13222330729123624
+    },
+    {
+      "face_id": 4,
+      "timestamp": 1782806232.318466,
+      "emotion": "fear",
+      "frustration": 0.6580756306648254,
+      "blink_rate": 0.0,
+      "head_tilt": 104.42077312751098,
+      "face_size_norm": 0.19564453124936312
+    },
+    {
+      "face_id": 7,
+      "timestamp": 1782806236.9838462,
+      "emotion": "happy",
+      "frustration": 0.20922386646270752,
+      "blink_rate": 0.0,
+      "head_tilt": 83.86274405073802,
+      "face_size_norm": 0.20470703124933362
+    },
+    {
+      "face_id": 7,
+      "timestamp": 1782806242.0117896,
+      "emotion": "happy",
+      "frustration": 0.22358974814414978,
+      "blink_rate": 0.0,
+      "head_tilt": 83.79655209830817,
+      "face_size_norm": 0.2163736979159623
+    },
+    {
+      "face_id": 14,
+      "timestamp": 1782806247.83563,
+      "emotion": "happy",
+      "frustration": 0.28964221477508545,
+      "blink_rate": 0.0,
+      "head_tilt": 83.01894259317021,
+      "face_size_norm": 0.24763020833252725
+    },
+    {
+      "face_id": 16,
+      "timestamp": 1782806256.2010498,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 91.31691240579326,
+      "face_size_norm": 0.21404296874930323
+    },
+    {
+      "face_id": 0,
+      "timestamp": 1782806466.5307765,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 79.95065141187513,
+      "face_size_norm": 0.14963867187451288
+    },
+    {
+      "face_id": 0,
+      "timestamp": 1782806471.5941792,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 93.62148470411735,
+      "face_size_norm": 0.18325520833273679
+    },
+    {
+      "face_id": 5,
+      "timestamp": 1782806484.673945,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 64.29004621918874,
+      "face_size_norm": 0.023401692708257156
+    },
+    {
+      "face_id": 13,
+      "timestamp": 1782806491.6032157,
+      "emotion": "happy",
+      "frustration": 0.2491612583398819,
+      "blink_rate": 0.0,
+      "head_tilt": 93.71528910542877,
+      "face_size_norm": 0.13650390624955563
+    },
+    {
+      "face_id": 16,
+      "timestamp": 1782806497.7553694,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 79.18612248637504,
+      "face_size_norm": 0.25466145833250436
+    },
+    {
+      "face_id": 17,
+      "timestamp": 1782806501.013195,
+      "emotion": "sad",
+      "frustration": 0.6000000238418579,
+      "blink_rate": 0.0,
+      "head_tilt": 105.42216131873867,
+      "face_size_norm": 0.09863932291634557
+    },
+    {
+      "face_id": 16,
+      "timestamp": 1782806502.8471715,
+      "emotion": "fear",
+      "frustration": 0.6441745758056641,
+      "blink_rate": 0.0,
+      "head_tilt": 75.82766229986805,
+      "face_size_norm": 0.2814127604157506
+    },
+    {
+      "face_id": 0,
+      "timestamp": 1782806603.3560853,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 87.5283352383666,
+      "face_size_norm": 0.18677734374979732
+    },
+    {
+      "face_id": 1,
+      "timestamp": 1782806608.2512994,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 73.05077576617856,
+      "face_size_norm": 0.05192057291661033
+    },
+    {
+      "face_id": 0,
+      "timestamp": 1782806608.394101,
+      "emotion": "happy",
+      "frustration": 0.20592117309570312,
+      "blink_rate": 0.0,
+      "head_tilt": 74.26119856255055,
+      "face_size_norm": 0.12356770833319926
+    },
+    {
+      "face_id": 1,
+      "timestamp": 1782806613.300961,
+      "emotion": "sad",
+      "frustration": 0.5617197155952454,
+      "blink_rate": 0.0,
+      "head_tilt": 110.15174703421188,
+      "face_size_norm": 0.1018858506943339
+    },
+    {
+      "face_id": 4,
+      "timestamp": 1782806618.2423997,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 78.19011704297175,
+      "face_size_norm": 0.11969726562487013
+    },
+    {
+      "face_id": 11,
+      "timestamp": 1782806626.4248176,
+      "emotion": "disgust",
+      "frustration": 0.6878955364227295,
+      "blink_rate": 0.0,
+      "head_tilt": 115.99401580396322,
+      "face_size_norm": 0.1546158854164989
+    },
+    {
+      "face_id": 12,
+      "timestamp": 1782806628.1573687,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 82.23483398157467,
+      "face_size_norm": 0.12182183159709004
+    },
+    {
+      "face_id": 12,
+      "timestamp": 1782806633.32035,
+      "emotion": "happy",
+      "frustration": 0.03737369179725647,
+      "blink_rate": 0.0,
+      "head_tilt": 92.00955381302114,
+      "face_size_norm": 0.11567491319431893
+    },
+    {
+      "face_id": 21,
+      "timestamp": 1782806645.0930092,
+      "emotion": "happy",
+      "frustration": 0.20042137801647186,
+      "blink_rate": 0.0,
+      "head_tilt": 77.42755499577247,
+      "face_size_norm": 0.1858810763886872
+    },
+    {
+      "face_id": 21,
+      "timestamp": 1782806650.1003852,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 85.70013717980794,
+      "face_size_norm": 0.10288085937488836
+    },
+    {
+      "face_id": 21,
+      "timestamp": 1782806655.1625068,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 91.60600298928226,
+      "face_size_norm": 0.11930989583320387
+    },
+    {
+      "face_id": 24,
+      "timestamp": 1782806655.5709567,
+      "emotion": "neutral",
+      "frustration": 0.2,
+      "blink_rate": 0.0,
+      "head_tilt": 79.15969454566944,
+      "face_size_norm": 0.027597656249970053
+    },
+    {
+      "face_id": 21,
+      "timestamp": 1782806660.298406,
+      "emotion": "happy",
+      "frustration": 0.09578189998865128,
+      "blink_rate": 0.0,
+      "head_tilt": 94.4748965062461,
+      "face_size_norm": 0.11873914930542671
+    },
+    {
+      "face_id": 21,
+      "timestamp": 1782806665.3514664,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 95.55994726330954,
+      "face_size_norm": 0.124414062499865
+    },
+    {
+      "face_id": 21,
+      "timestamp": 1782806670.4265316,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 95.1944289077348,
+      "face_size_norm": 0.12456380208319817
+    },
+    {
+      "face_id": 25,
+      "timestamp": 1782806675.9927227,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 73.95573313679637,
+      "face_size_norm": 0.20276041666644665
+    },
+    {
+      "face_id": 27,
+      "timestamp": 1782806686.5780437,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 82.5685920288275,
+      "face_size_norm": 0.22629123263864334
+    },
+    {
+      "face_id": 27,
+      "timestamp": 1782806691.5874233,
+      "emotion": "happy",
+      "frustration": 0.20077358186244965,
+      "blink_rate": 0.0,
+      "head_tilt": 72.5319767487223,
+      "face_size_norm": 0.19636718749978693
+    },
+    {
+      "face_id": 27,
+      "timestamp": 1782806696.6315591,
+      "emotion": "angry",
+      "frustration": 0.597518801689148,
+      "blink_rate": 0.0,
+      "head_tilt": 62.86009407067906,
+      "face_size_norm": 0.252509765624726
+    },
+    {
+      "face_id": 27,
+      "timestamp": 1782806701.7662582,
+      "emotion": "happy",
+      "frustration": 0.021647319197654724,
+      "blink_rate": 0.0,
+      "head_tilt": 77.41230661835122,
+      "face_size_norm": 0.09631944444433993
+    },
+    {
+      "face_id": 33,
+      "timestamp": 1782806711.8362207,
+      "emotion": "sad",
+      "frustration": 0.49082785844802856,
+      "blink_rate": 0.0,
+      "head_tilt": 62.17590361574674,
+      "face_size_norm": 0.018284505208313494
+    },
+    {
+      "face_id": 58,
+      "timestamp": 1782806734.8182921,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 82.19359917076424,
+      "face_size_norm": 0.12338867187486612
+    },
+    {
+      "face_id": 58,
+      "timestamp": 1782806739.8454475,
+      "emotion": "angry",
+      "frustration": 0.5988566875457764,
+      "blink_rate": 0.0,
+      "head_tilt": 87.39743779750019,
+      "face_size_norm": 0.11679687499987326
+    },
+    {
+      "face_id": 58,
+      "timestamp": 1782806744.8546438,
+      "emotion": "angry",
+      "frustration": 0.49518918991088867,
+      "blink_rate": 0.0,
+      "head_tilt": 84.15543412261313,
+      "face_size_norm": 0.10661024305543987
+    },
+    {
+      "face_id": 58,
+      "timestamp": 1782806749.9031904,
+      "emotion": "sad",
+      "frustration": 0.4121484160423279,
+      "blink_rate": 0.0,
+      "head_tilt": 87.53188208617146,
+      "face_size_norm": 0.08085177951380115
+    },
+    {
+      "face_id": 60,
+      "timestamp": 1782806760.2258666,
+      "emotion": "fear",
+      "frustration": 0.6558119058609009,
+      "blink_rate": 0.0,
+      "head_tilt": 72.12130340415867,
+      "face_size_norm": 0.16843749999981722
+    },
+    {
+      "face_id": 60,
+      "timestamp": 1782806765.2370365,
+      "emotion": "sad",
+      "frustration": 0.6073741912841797,
+      "blink_rate": 0.0,
+      "head_tilt": 84.96806577717079,
+      "face_size_norm": 0.2141872829858787
+    },
+    {
+      "face_id": 60,
+      "timestamp": 1782806770.3720913,
+      "emotion": "neutral",
+      "frustration": 0.4,
+      "blink_rate": 0.0,
+      "head_tilt": 102.39085666068091,
+      "face_size_norm": 0.19679687499978646
+    }
+  ]
+}
