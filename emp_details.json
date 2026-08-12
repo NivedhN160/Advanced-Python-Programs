@@ -1,0 +1,44 @@
+[
+  {
+    "emp_id": 101,
+    "emp_name": "Ravi",
+    "Designation": "Developer",
+    "Department": "IT",
+    "Salary": 50000
+  },
+  {
+    "emp_id": 102,
+    "emp_name": "Priya",
+    "Designation": "Manager",
+    "Department": "HR",
+    "Salary": 75000
+  },
+  {
+    "emp_id": 103,
+    "emp_name": "Anil",
+    "Designation": "Analyst",
+    "Department": "Finance",
+    "Salary": 60000
+  },
+  {
+    "emp_id": 104,
+    "emp_name": "Sunita",
+    "Designation": "Designer",
+    "Department": "Marketing",
+    "Salary": 55000
+  },
+  {
+    "emp_id": 105,
+    "emp_name": "Rahul",
+    "Designation": "Tester",
+    "Department": "IT",
+    "Salary": 45000
+  },
+  {
+    "emp_id": 106,
+    "emp_name": "Mishra",
+    "Designation": "CEO",
+    "Department": "Management",
+    "Salary": 1000000
+  }
+]
