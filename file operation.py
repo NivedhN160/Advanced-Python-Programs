@@ -1,7 +1,7 @@
 # file operation - read content of file, get statements from file, handle file exceptions
 file = None
 try:
-    file_name = "file.txt"
+    file_name = "file1.txt"
     file = open(file_name, "r")
     content = file.read()
     print("File content:\n")
